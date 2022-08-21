@@ -1,16 +1,3 @@
 # sabek_desktop
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is still unfinished, however, the final product should be a flutter multi-platform desktop app for merchants to use in their own vending computers instead of mobile apps. It should also be able to connect directly to merchants databases and fetch products data from it as well as providing an ERP-like interface to ease and smoothen the experience for merchants.
